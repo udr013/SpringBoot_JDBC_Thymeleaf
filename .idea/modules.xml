@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBoot_JDBC_Thymeleaf.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBoot_JDBC_Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBoot_JDBC_Thymeleaf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBoot_JDBC_Thymeleaf_main.iml" group="SpringBoot_JDBC_Thymeleaf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBoot_JDBC_Thymeleaf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBoot_JDBC_Thymeleaf_test.iml" group="SpringBoot_JDBC_Thymeleaf" />
+    </modules>
+  </component>
+</project>
